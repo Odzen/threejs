@@ -1,0 +1,16 @@
+# Blender MTL File: 'None'
+# Material Count: 1
+
+newmtl Mask_mat
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\Beker\\Desktop\\Blender WORKSHOP\\CREATION\\@CURRENT PROJECT(s)\\African Tribal Masks PACK!\\Completed\\Mask 4 (Free)\\Textures\\Mask 4_Material_Normal.png
+map_Kd C:\\Users\\Beker\\Desktop\\Blender WORKSHOP\\CREATION\\@CURRENT PROJECT(s)\\African Tribal Masks PACK!\\Completed\\Mask 4 (Free)\\Textures\\Mask 4_Material_BaseColor.png
+map_Ns C:\\Users\\Beker\\Desktop\\Blender WORKSHOP\\CREATION\\@CURRENT PROJECT(s)\\African Tribal Masks PACK!\\Completed\\Mask 4 (Free)\\Textures\\Mask 4_Material_Roughness.png
+refl C:\\Users\\Beker\\Desktop\\Blender WORKSHOP\\CREATION\\@CURRENT PROJECT(s)\\African Tribal Masks PACK!\\Completed\\Mask 4 (Free)\\Textures\\Mask 4_Material_Metallic.png
